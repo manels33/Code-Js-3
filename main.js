@@ -1,14 +1,3 @@
-/**
- * Mdsoft INT
- *
- * @category    Front end
- * @package     Main js
- * @copyright   Copyright (c) 2017 MDWEB. (http://www.mdweb-int.com)
- * @author      BESSROUR Ahmed (ahmed.bessrour@gmail.com)
- * @author      Sassi Manel (manel.sassi33@gmail.com)
- */
-
-
 var $ = jQuery.noConflict();
 
 var isMobile = window.matchMedia("only screen and (max-width: 479px)");
